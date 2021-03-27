@@ -1,0 +1,28 @@
+.display-4, .lead {
+    width:40%;
+}
+
+.heroImage, .display-4{
+   position:relative;
+   display:flex;
+}
+
+.categories {
+    display:flex;
+    justify-content:center;
+    padding:30px;
+    margin:40px;
+}
+
+.card {
+    margin:50px;
+    border:none;
+}
+
+.card-body2, .card-body3 {
+    margin-top:95px;
+}
+
+.parts {
+    display:none;
+}
