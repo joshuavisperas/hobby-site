@@ -1,5 +1,6 @@
 .display-4, .lead {
     width:40%;
+    background-color:yellow;
 }
 
 .heroImage, .display-4{
